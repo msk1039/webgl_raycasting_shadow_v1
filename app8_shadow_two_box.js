@@ -2,8 +2,8 @@ const canvas = document.createElement("canvas");
 document.body.appendChild(canvas);
 
 
-canvas.style.width = "1200px";
-canvas.style.height = "1200px";
+canvas.style.width = "800px";
+canvas.style.height = "800px";
 canvas.style.border = "1px solid black";
 
 
